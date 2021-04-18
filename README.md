@@ -4,7 +4,8 @@ It is a chrome extention that fetch your:<br>
 -Balance<br>
 -Tokens<br>
 -transactions with details<br>
--Nfts
+-Nfts<br>
+For Eth and Avax chains
 
 In order to install and test the extention:<br>
 1. Open Chrome extensions<br>
