@@ -16,4 +16,6 @@ And Voila! the app is running :)
 
 
 Here are some images of the extention.<br>
-![Image wallet](https://github.com/SamixDev/OneMillionWallet/blob/main/wallet.png)![Image transactions](https://github.com/SamixDev/OneMillionWallet/blob/main/tnx.png)![Image nfts](https://github.com/SamixDev/OneMillionWallet/blob/main/nft.png)
+![Image wallet](https://github.com/SamixDev/OneMillionWallet/blob/main/wallet.png)<br>
+![Image transactions](https://github.com/SamixDev/OneMillionWallet/blob/main/tnx.png)<br>
+![Image nfts](https://github.com/SamixDev/OneMillionWallet/blob/main/nft.png)
