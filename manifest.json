@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+
+  "name": "EtherStats",
+  "description": "Stats about an address",
+  "version": "0.0.1",
+
+  "browser_action": {
+    "default_popup": "index.html",
+    "default_title": "Open the popup"
+  },
+  "icons": {
+    "16": "custom.png",
+    "48": "custom.png",
+    "128": "custom.png"
+  },
+  "permissions": [
+  ]
+}
