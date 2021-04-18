@@ -2,7 +2,8 @@ This is my submission to OneMillionWallet competition.
 
 It is a chrome extention that fetch your:<br>
 -Balance<br>
--transactions<br>
+-Tokens<br>
+-transactions with details<br>
 -Nfts
 
 In order to install and test the extention:<br>
